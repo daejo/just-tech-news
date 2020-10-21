@@ -1,5 +1,6 @@
 // npm install express-handlebars || Installing handlebars
 // npm i express-session connect-session-sequelize || library automatically stores the sessions created by express-session into our database
+// npm i jest -D || installing jest
 const path = require('path');
 const express = require('express');
 const routes = require('./controllers');
